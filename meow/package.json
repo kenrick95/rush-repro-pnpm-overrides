@@ -1,0 +1,8 @@
+{
+  "name": "@kenrick95/meow-1",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react-router": "^5.0.0"
+  }
+}
