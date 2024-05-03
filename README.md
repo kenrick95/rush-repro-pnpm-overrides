@@ -1,20 +1,20 @@
-# Repro for Rush issue ...
+# Repro for Rush issue [4675](https://github.com/microsoft/rushstack/issues/4675)
 
 Simply run
 
-```
+```sh
 rush update
 ```
 
-Then 
+Then
 
-```
+```sh
 rush install
 ```
 
 It will keep failing due to
 
-```
+```log
 Rush Multi-Project Build Tool 5.122.1 - https://rushjs.io
 Node.js version is 18.20.2 (LTS)
 
